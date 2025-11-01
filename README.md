@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**bytelab00/bytelab00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Filip, a software engineering student passionate about and full-stack development, AI and basically creating scalable awesome systems.  
+I enjoy working with modern technologies and building unique applications.  
 
-Here are some ideas to get you started:
+## 🧠 My Skills  
+<img src="https://skillicons.dev/icons?i=javascript,typescript,dotnet,java,spring,python,docker,mysql,postgresql" height="40"/> ... to be continued
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Currently Working On
+- Learning Spring Boot and microservices
+- Building personal projects with React & Angular
+- Improving backend API design and database modeling
+
+## 🌱 Currently Learning
+- Advanced Spring Boot & Hibernate
+- Kubernetes & Docker orchestration
+- Full-stack TypeScript applications
+
+## 📫 How to reach me
+- LinkedIn: [Filip's LinkedIn](https://ba.linkedin.com/in/filip-delevic-533774394)
+- GitHub: [bytelab00](https://github.com/bytelab00)
+
+## ⚡ Fun Fact
+I always approach challenges with a step-by-step problem-solving mindset, carefully analyzing each stage to deliver efficient and reliable solutions.

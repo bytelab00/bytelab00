@@ -4,7 +4,7 @@ I am Filip, a software engineering student passionate about and full-stack devel
 I enjoy working with modern technologies and building unique applications.  
 
 ## 🧠 My Skills  
-<img src="https://skillicons.dev/icons?i=javascript,typescript,dotnet,java,spring,python,docker,mysql,postgresql" height="40"/> ... to be continued
+<img src="https://skillicons.dev/icons?i=javascript,typescript,dotnet,java,spring,python,flutter,firebase,docker,mysql,postgresql" height="40"/> ... to be continued
 
 ## 🔭 Currently Working On
 - Learning Spring Boot and microservices

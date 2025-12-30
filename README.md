@@ -8,14 +8,13 @@ I enjoy working with modern technologies and building unique applications.
 ... to be continued
 
 ## 🔭 Currently Working On
-- Learning Spring Boot and microservices
-- Building personal projects with React & Angular
+- Learning System Design and Infrastructure Engineering
+- Building personal projects with local LLMs
 - Improving backend API design and database modeling
 
 ## 🌱 Currently Learning
-- Advanced Spring Boot & Hibernate
+- Advanced .NET
 - Kubernetes & Docker orchestration
-- Full-stack TypeScript applications
 
 ## 📫 How to reach me
 - LinkedIn: [Filip's LinkedIn](https://ba.linkedin.com/in/filip-delevic-533774394)
